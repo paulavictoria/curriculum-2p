@@ -23,9 +23,19 @@ a {
 }
 
 footer {
-    color: #332F2E;
+    color: #fffbfa;
 }
 
 .big{
     border: none;
+    border-radius: 0.50rem; /*8px*/
 }
+
+.idInformation {
+    text-align: center;
+}
+
+.titleId, .titleForm, .titleExp {
+    text-align: center;
+}
+
